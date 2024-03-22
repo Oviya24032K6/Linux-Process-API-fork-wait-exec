@@ -119,8 +119,6 @@ Test the C Program for the desired output.
 
 
 
-## RESULT:
-Thus the programs are executed successfully.
 
 
 
